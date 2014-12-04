@@ -1,5 +1,5 @@
 ---
-title       : Ecstasy
+title       : Tripping on Ecstasy Data
 subtitle    : 
 author      : Ryan Quan & Frank Chen
 job         : Columbia University
@@ -124,6 +124,13 @@ $(function() {
 > * Publish results [online](http://www.ecstasydata.org/results.php) as a means of harm reduction
 
 ---
+
+## XML - Extensible Markup Language
+
+![](assets/img/xml.png)
+
+---
+
 
 ## Caveats
 
@@ -359,6 +366,14 @@ n1
 > * Ask for the owner's permission before scraping data
 > * Offer to make visualizations for small organizations
 > * Escape those damn ampersands - "&amp;"!
+
+---
+
+## Links
+
+* [Ecstasy GitHub Repo](https://github.com/fryandata/ecstasy)
+* [Slidify](http://ramnathv.github.io/slidify/)
+* [EcstasyData.org](http://www.ecstasydata.org)
 
 --- .segue .dark
 
