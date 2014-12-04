@@ -316,13 +316,13 @@ n1
 
 ## Visualizations
 
-`D3.js` - Stacked Area Plot with Hover-Overs
+`D3.js` - [Stacked Area Plot with Hover-Overs](http://plnkr.co/qLBXCBID4QwiUjNvgeb7)
 
 ---
 
 ## Visualizations
 
-`D3.js` - Slider Dot Plot
+`D3.js` - [Slider Dot Plot](http://embed.plnkr.co/uQ9TgDVX6tce7MUFUOnm/preview)
 
 --- .segue .dark
 
@@ -357,3 +357,5 @@ n1
 --- .segue .dark
 
 ## Thank You!
+
+---
